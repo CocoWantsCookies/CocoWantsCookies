@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CocoWantsCookies
+- 👀 I’m interested in codding some useless stuff
+- 🌱 I’m currently learning python and c++
+- 📫 How to reach me cocowantscookies@gmail.com
