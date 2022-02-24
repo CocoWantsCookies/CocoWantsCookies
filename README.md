@@ -6,4 +6,4 @@
 -  - on discord: CocoWantsCookies#4827
 -  - on Reddit: u/CocoWantsCookies
 -  - on Twitter: @coco_w_cookies
-- If you want to add me on CodeWars: https://www.codewars.com/users/CocoWantsCookies
+- If you want to add me on CodeWars: codewars.com/users/CocoWantsCookies
