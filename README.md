@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @CocoWantsCookies
 - 👀 I’m interested in codding some useless stuff
 - 🌱 I’m currently learning python and c++
-- 📫 How to reach me cocowantscookies@gmail.com
+- 📫 How to reach me
+-  - by email: cocowantscookies@gmail.com
+-  - on discord: CocoWantsCookies#4827
+-  - on Reddit: u/CocoWantsCookies
+-  - on Twitter: @coco_w_cookies
